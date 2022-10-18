@@ -13,3 +13,5 @@ git add <file name> or git add . (to add all the files),
 git status (gives the status)
 git diff (shows the difference in the files)
 git restore <file name> (restore to the previse state)
+
+Version control =>
