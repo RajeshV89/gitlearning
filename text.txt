@@ -1,0 +1,15 @@
+working directory -> stagging area -> local repo. -> remote repo.
+GitLearning       -> git add       -> git commit  -> git push 
+
+git init // git initallization of the folder
+
+git status // gives the status of the folder
+
+tracked //
+untracked 
+
+change control => 
+git add <file name> or git add . (to add all the files),
+git status (gives the status)
+git diff (shows the difference in the files)
+git restore <file name> (restore to the previse state)
