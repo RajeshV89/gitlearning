@@ -19,3 +19,6 @@ Version control =>
 git commit -m(mass) "comments here"
 git log (shows all the commit made)
 git log --oneline (shows only commit Id and comments of the commit)
+
+
+gjhkjjghjffyjbjhg
