@@ -24,3 +24,12 @@ git log --oneline (shows only commit Id and comments of the commit)
 git reset --soft HEAD^ (goes back to stagging area)
 git reset HEAD^ (goes back to working directory)
 git reset --hard HEAD^ (deletes all the changes made)
+
+
+git checkout <commit id > (moving back to previous Version)
+git checkout main (last commit)
+
+git show / git show head
+git show <commit id>
+
+
