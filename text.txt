@@ -32,4 +32,8 @@ git checkout main (last commit)
 git show / git show head
 git show <commit id>
 
+GITHUB REPOSITORY // remote repo.
+git remote -v (shows the connection to remote repo)
+git remote add origin <git HTTP or ssh> (adds the remote repostiory)
+
 
