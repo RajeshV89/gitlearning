@@ -21,4 +21,6 @@ git log (shows all the commit made)
 git log --oneline (shows only commit Id and comments of the commit)
 
 
-gjhkjjghjffyjbjhg
+git reset --soft HEAD^ (goes back to stagging area)
+git reset HEAD^ (goes back to working directory)
+git reset --hard HEAD^ (deletes all the changes made)
