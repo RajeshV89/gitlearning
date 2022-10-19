@@ -36,4 +36,8 @@ GITHUB REPOSITORY // remote repo.
 git remote -v (shows the connection to remote repo)
 git remote add origin <git HTTP or ssh> (adds the remote repostiory)
 
+git push -u origin main (pushes all the changes to remote repo)
+git push
 
+git pull origin main (pulls the changes from the remote repo a.k.a GitHub)
+git pull 
